@@ -1,0 +1,20 @@
+{
+    "cardTypes": [
+        {
+            "id": "1",
+            "value": "Visa"
+        },
+        {
+            "id": "2",
+            "value": "MasterCard"
+        },
+        {
+            "id": "3",
+            "value": "JCB"
+        },
+        {
+            "id": "4",
+            "value": "Amex"
+        }
+        ]
+}

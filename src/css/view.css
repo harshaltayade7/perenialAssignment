@@ -1,0 +1,33 @@
+.sussessMsg {
+    margin-top: 20px;
+}
+.mainComponent {
+    width: 100%;
+}
+.container {
+    width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+    .productField {
+        width: 100%;
+    }
+    .componentFields {
+        width: 100%;
+    }
+    .container {
+        display: block;
+    }
+  }
+
+  @media only screen and (min-width: 400px) {
+    .productField {
+        width: 50%;
+    }
+    .componentFields {
+        width: 50%;
+    }
+    .container {
+        display: flex;
+    }
+  }
